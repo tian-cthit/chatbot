@@ -1,7 +1,7 @@
 # Chatbot
 
 ## Environment Setuo:
-pip install requirement.txt
+pip install requirement.txt<br>
 sudo apt install python3-pyaudio
 
 ## Run Script:
