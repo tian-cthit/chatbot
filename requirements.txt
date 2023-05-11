@@ -3,4 +3,4 @@ pynput==1.7.6
 sounddevice==0.4.6
 torch==2.0.0
 transformers==4.28.0
-TTS==0.13.3
+TTS==0.13.1
